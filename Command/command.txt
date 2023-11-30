@@ -1,3 +1,4 @@
 Bouton à créer pour les interactions : 
     -Valider une participation de tournois (seulement le chef de la squad)
-    -Décider de qui participe au tournois 
+    -Décider de qui participe au tournois
+    -
