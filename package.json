@@ -4,7 +4,8 @@
   "description": "This is a discord bot in js for turnament",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "main.js ."
   },
   "keywords": [],
   "author": "Luckyluck, Tirraa",
