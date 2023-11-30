@@ -1,5 +1,5 @@
 {
-  "name": "bot_tourois_lol-(compte-perso)",
+  "name": "bot_tourois_lol_perso",
   "version": "1.0.0",
   "description": "This is a discord bot in js for turnament",
   "main": "index.js",
