@@ -2,11 +2,11 @@
   "name": "bot_tourois_lol_perso",
   "version": "1.0.0",
   "description": "This is a discord bot in js for turnament",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Luckyluck, Tirraa",
   "license": "ISC"
 }
