@@ -1,1 +1,1 @@
-"# Discord_BOT_turnnament_js" 
+This is a discord bot in js for turnament
