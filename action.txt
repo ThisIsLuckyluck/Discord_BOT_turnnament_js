@@ -2,4 +2,4 @@ Lier le compte Riot au bot
 
 
 Gestion des équipes : 
-    -Ajouterm, modifier ou supprimer un membre de sa squad.
+    -Ajouter, modifier ou supprimer un membre de sa squad.
